@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jamwil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kananlabs.org
+  * I am jamwil (https://keybase.io/jamwil) on keybase.
+  * I have a public key ASCXxjxudek8eLWv7Cr6bsd0_b8mx3_KFnmcyo402MDHDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d64fdc594914f266b6f29ce5cfaff3768e143bd5fec8c491165c2c675cc187740a",
+      "host": "keybase.io",
+      "kid": "012097c63c6e75e93c78b5afec2afa6ec774fdbf26c77fca16799cca8e34d8c0c70d0a",
+      "uid": "562d8f73c8213dda2fec3b96102f9d19",
+      "username": "jamwil"
+    },
+    "merkle_root": {
+      "ctime": 1621999765,
+      "hash": "639138f24cdc13e828d286a1ff081c648650814142dd20bf0691a20b0f71bc116f663f985971a7783d8f8b409b041c7e67bd241c51a83b4794734fc71839e71c",
+      "hash_meta": "4aae3dca58228cdc8b668c99167b21b3de76f77508b58f37cb838f19dc95d84f",
+      "seqno": 20043861
+    },
+    "service": {
+      "entropy": "uzeji3GktciOPMusHn5LO8JC",
+      "hostname": "kananlabs.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1621999776,
+  "expire_in": 504576000,
+  "prev": "0ca6d826cf448bc340c20b9ddc83a91cf239c8336447bbefc524191694830d4d",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl8Y8bnXpPHi1r+wq+m7HdP2/Jsd/yhZ5nMqONNjAxw0Kp3BheWxvYWTESpcCK8QgDKbYJs9Ei8NAwgud3IOpHPI5yDNkR7vvxSQZFpSDDU3EINw+b4ENtB2qQ8+bYy//TH9Wy6Vd3xIcnZumyB+QZF/9AgHCo3NpZ8RAisKtnzJXT2Wxwq91k3LCfC7JUG4ItWBQ51Bc6lN8orNo+vFrj5yboWh3pcUOlpvCPYgpiuoN4IqrhKSfgOmqDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP0cKOmLu49izNkqG6mk+Cn2xhzQjmzQlBzo5L6rYR2to3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamwil
+
+==================================================================
