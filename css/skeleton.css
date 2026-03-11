@@ -25,6 +25,87 @@
 - Media Queries
 */
 
+/* Muted text
+-------------------------------------------------- */
+.muted {
+  color: darkgrey; }
+
+/* Dark mode
+-------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #d8d8d8; }
+  .muted {
+    color: #888; }
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0; }
+  a {
+    color: #5dd3f5; }
+  a:hover {
+    color: #33C3F0; }
+  .button,
+  button,
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"] {
+    color: #bbb;
+    border-color: #555; }
+  .button:hover,
+  button:hover,
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  input[type="button"]:hover,
+  .button:focus,
+  button:focus,
+  input[type="submit"]:focus,
+  input[type="reset"]:focus,
+  input[type="button"]:focus {
+    color: #eee;
+    border-color: #999; }
+  .button.button-primary,
+  button.button-primary,
+  input[type="submit"].button-primary,
+  input[type="reset"].button-primary,
+  input[type="button"].button-primary {
+    color: #fff;
+    background-color: #1e9ec0;
+    border-color: #1e9ec0; }
+  .button.button-primary:hover,
+  button.button-primary:hover,
+  input[type="submit"].button-primary:hover,
+  input[type="reset"].button-primary:hover,
+  input[type="button"].button-primary:hover,
+  .button.button-primary:focus,
+  button.button-primary:focus,
+  input[type="submit"].button-primary:focus,
+  input[type="reset"].button-primary:focus,
+  input[type="button"].button-primary:focus {
+    background-color: #1685a3;
+    border-color: #1685a3; }
+  input[type="email"],
+  input[type="number"],
+  input[type="search"],
+  input[type="text"],
+  input[type="tel"],
+  input[type="url"],
+  input[type="password"],
+  textarea,
+  select {
+    background-color: #2a2a2a;
+    border-color: #555;
+    color: #d8d8d8; }
+  code {
+    background: #2a2a2a;
+    border-color: #444;
+    color: #d8d8d8; }
+  th,
+  td {
+    border-bottom-color: #444; }
+  hr {
+    border-top-color: #444; }
+}
+
 /* CUSTOM
 -------------------------------------------------- */
 @media (max-width: 550px) {
